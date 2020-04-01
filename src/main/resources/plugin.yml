@@ -1,3 +1,7 @@
 name: "KeyRandomTP"
 version: '1.0'
 main: io.github.Keyami.KeyRandomTP.KeyRandomTP
+commands:
+  rtp:
+    description: Randomly teleport!
+    usage: /rtp
