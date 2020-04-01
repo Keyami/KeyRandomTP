@@ -8,7 +8,7 @@ The plugin is almost complete!
 
 Things that work:
 - Randomly Teleporting
-- Configure min and max X and Y values.
+- Configure min and max X and Z values.
 - Fixed suffocating in a wall sometimes.
 - You can't be TP-ed onto ice, snow, water, or air.
 
